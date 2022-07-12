@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;  
+}
+
+img {
+    border-radius: 100%;
+    width: 20%;
+}
+
+div {
+    text-align: justify;
+}
